@@ -9,5 +9,8 @@ const lmic_pinmap lmic_pins = {
   .dio = {PB1, PB10, PB11}
 };
 ```
+![ScreenShot](http://grauonline.de/wordpress/wp-content/uploads/arduino_stm32f103c8t6.jpg?raw=true)
+
+![ScreenShot](http://grauonline.de/wordpress/wp-content/uploads/arduino_stm32f103c8t6_schematics.png?raw=true)
 
 ![ScreenShot](https://github.com/worrajak/STM32_LoRaWan/blob/master/800px-Bluepillpinout.gif?raw=true)
